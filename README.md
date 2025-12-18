@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Andrei — SRE / DevOps Engineer
 
-<!--
-**neogan74/neogan74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Focus:
+- Kubernetes & GitOps (Argo CD, Helm)
+- CI/CD Platforms (GitLab CI, GitHub Actions)
+- Observability (Prometheus, Grafana, Loki)
+- Reliability & Chaos Engineering
+- Go tooling for SRE
 
-Here are some ideas to get you started:
+📦 Selected Projects:
+- Consul-lite (Raft KV, Go)
+- GitOps playground (Argo CD, Canary)
+- CI/CD templates for Go/Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently learning:
+- Platform Engineering
+- Gateway API
+- Chaos Engineering
+
+📫 Contacts:
+LinkedIn | GitHub | Email
